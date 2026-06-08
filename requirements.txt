@@ -4,5 +4,5 @@ seaborn
 matplotlib
 scikit-learn
 imbalanced-learn
-pip=24.2
+pip
 streamlit
