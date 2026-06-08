@@ -1,0 +1,8 @@
+pandas=3.0.2
+numpy=2.4.4
+seaborn
+matplotlib
+scikit-learn
+imbalanced-learn
+pip=24.2
+streamlit
